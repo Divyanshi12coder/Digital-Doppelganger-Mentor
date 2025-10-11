@@ -80,7 +80,7 @@ Integrations:
 
 🌐 Social Impact: Particularly transformative for first-generation learners, rural communities, and underserved populations.
 
-🌟 Vision for the Future
+🌟 Vision for Future
 
 The Digital Doppelganger Mentor envisions a future where mentorship is universal, accessible, and deeply personalized. It transforms mentorship from an exclusive privilege into a global right—empowering millions to learn, grow, and thrive with their very own AI-driven mentor.
 
