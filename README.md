@@ -44,10 +44,10 @@ Acts as a lifelong growth companion—not just an advisor.
 🛠 Tech Stack
 
 Frontend (UI/UX):
-🎨 React.js, Next.js, Tailwind CSS – Clean, modern, and interactive user interface.
+🎨 React.js, Tailwind CSS – Clean, modern, and interactive user interface.
 
 Backend (APIs & Real-Time Processing):
-⚙️ Node.js / Express, GraphQL – For handling mentorship requests, chat sessions, and recommendations.
+⚙️ Node.js  – For handling mentorship requests, chat sessions, and recommendations.
 
 AI/ML Core:
 
@@ -60,10 +60,10 @@ AI/ML Core:
 🧩 Reinforcement Learning for personalized growth strategies.
 
 Databases & Storage:
-🗄 PostgreSQL, MongoDB – For storing user data, mentorship history, and insights.
+🗄 PostgreSQL – For storing user data, mentorship history, and insights.
 
 Cloud & Infrastructure:
-☁️ AWS / GCP / Azure, Firebase – Scalability, security, and real-time sync.
+☁️ Firebase – Scalability, security, and real-time sync.
 
 Integrations:
 ⌚ Wearables, LMS platforms, productivity tools – To connect lifestyle, health, and learning data seamlessly.
