@@ -52,12 +52,12 @@ An AI-powered mentorship platform that evolves with the user—replicating their
 
 | Layer               | Technology Used                                      |
 |--------------------|-------------------------------------------------------|
-| **Frontend**        | React.js, Tailwind CSS                               |
-| **Backend**         | Node.js, Express.js                                  |
-| **AI/ML Core**      | GPT-based LLMs, Recommendation Engines, NLP, RL      |
+| **Frontend**        | React.js                              |
+| **Backend**         | Node.js                               |
+| **AI/ML Core**      | GPT-based LLMs     |
 | **Database**        | PostgreSQL                                            |
 | **Cloud & Infra**   | Firebase (Realtime Sync, Auth, Hosting)              |
-| **Integrations**    | Wearables, LMS platforms, productivity tools         |
+| **Integrations**    | Wearables       |
 
 ---
 
